@@ -1,4 +1,4 @@
 ultralytics
 numpy
 flirpy
-cv2
+opencv-python
